@@ -1,4 +1,4 @@
-# Inna Ermolaeva
+# **Inna Ermolaeva**
 
 # Contacts
 * +375297792528
@@ -27,7 +27,8 @@ class HelloWorld
 ```  
 
 # Experience
-https://github.com/innaerm/rsschool-cv/edit/gh-pages/cv.md
+[ссылка на CV.MD](https://github.com/innaerm/rsschool-cv/edit/gh-pages/cv.md)
+
 # Education
 1. BNTU 
 2. IIT
