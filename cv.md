@@ -29,7 +29,8 @@ class HelloWorld
 # Experience
 https://github.com/innaerm/rsschool-cv/edit/gh-pages/cv.md
 # Education
-* BNTU 
-* IIT
+1. BNTU 
+2. IIT
+
 # English
 A1-A2
