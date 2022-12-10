@@ -1,2 +1,2 @@
 # rsschool-cv
-# https://Innaerm.github.io/rsschool-cv/cv
+# https://github.com/innaerm/rsschool-cv/blob/gh-pages/cv.md
